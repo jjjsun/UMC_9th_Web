@@ -1,17 +1,12 @@
-<div align="center">
- <h2>UMC 9th Web Study — 개인 아카이브</h2>
- <p>UMC 9th Web Study 활동 중 진행한 모든 주차별 미션을 정리</p>
- <br/>
-</div>
-
+<h2>UMC 9th Web Study — 개인 아카이브</h2>
+<p>UMC 9th Web Study 활동 중 진행한 모든 주차별 미션을 정리</p>
+<br/>
 
 <h2>Author</h2>
 <strong>박재선 (Nova)</strong><br />
 UMC 9th Web – Frontend Track
-
 <br/>
 <h2>Repository 구조</h2>
-
 <pre>
  UMC_9th_Web/
  └── 노바_박재선/
@@ -22,9 +17,7 @@ UMC 9th Web – Frontend Track
       └── N주차
 
 </pre>
-
 각 폴더에 주차별 과제코드, 실습파일 넣어둠.
-
 <br/>
 <h2>Included</h2>
 <ul>
@@ -51,8 +44,8 @@ UMC 9th Web – Frontend Track
 <!-- TailwindCSS -->
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
-<!-- CSS3 -->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<!-- CSS -->
+<img src="https://img.shields.io/badge/Modern%20CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
 
 <!-- Git -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
