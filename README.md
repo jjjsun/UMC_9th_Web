@@ -1,7 +1,6 @@
 <h2>💻 UMC 9th Web Study — 개인 아카이브</h2>
 <p>UMC 9th Web Study 활동 중 진행한 모든 주차별 미션을 정리</p>
 <br/>
-
 <h2>👤 Author</h2>
 <strong>박재선 (Nova)</strong><br />
 UMC 9th Web – Frontend Track
@@ -15,7 +14,6 @@ UMC 9th Web – Frontend Track
       ├── 2주차
       ├── ...
       └── N주차
-
 </pre>
 각 폴더에 주차별 과제코드, 실습파일 넣어둠.
 <br/>
@@ -27,11 +25,8 @@ UMC 9th Web – Frontend Track
  <li>과제 제출 이력 백업(Histories maintained)</li>
 </ul>
 <br/>
-
 <h2>🛠️ Tech Stack</h2>
-
 <div align="center">
-
 <!-- React -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
@@ -52,7 +47,6 @@ UMC 9th Web – Frontend Track
 
 <!-- GitHub -->
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
 </div>
 
 
