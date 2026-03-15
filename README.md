@@ -1,9 +1,9 @@
-<h2>💻 UMC 9th Web Study — 개인 아카이브</h2>
-<p>UMC 9th Web Study 활동 중 진행한 모든 주차별 미션을 정리</p>
+<h2>💻 UMC 9th Web Study — 개인 저장소</h2>
+<p>UMC 9th Web Study에서 진행한 주차별 미션을 정리</p>
 <br/>
-<h2>👤 Author</h2>
+<h2>👤 멤버</h2>
 <strong>박재선 (Nova)</strong><br />
-UMC 9th Web – Frontend Track
+UMC 9th Web – Frontend
 <br/>
 <h2>🗂️ Repository 구조</h2>
 <pre>
@@ -22,7 +22,7 @@ UMC 9th Web – Frontend Track
  <li>주차별 미션 구현 코드</li>
  <li>React/TypeScript 기반 실습</li>
  <li>Hook, Routing, API 연동 등 실전 프로젝트 구조 학습</li>
- <li>과제 제출 이력 백업(Histories maintained)</li>
+ <li>과제 제출 이력 백업</li>
 </ul>
 <br/>
 <h2>🛠️ Tech Stack</h2>
@@ -52,5 +52,5 @@ UMC 9th Web – Frontend Track
 
 <br/>
 <h2> 📅 기간</h2>
-2025.09 ~ (진행중)
+2025.09 ~ 2025.12
 <br/>
